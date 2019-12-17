@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\file watcher\file watcher\bin\Debug\file watcher.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\file watcher\file watcher\bin\Debug\file watcher.exe
+c:\users\hp\documents\visual studio 2015\Projects\file watcher\file watcher\bin\Debug\file watcher.pdb
+c:\users\hp\documents\visual studio 2015\Projects\file watcher\file watcher\obj\Debug\file watcher.exe
+c:\users\hp\documents\visual studio 2015\Projects\file watcher\file watcher\obj\Debug\file watcher.pdb
+c:\users\hp\documents\visual studio 2015\Projects\file watcher\file watcher\obj\Debug\file watcher.csprojResolveAssemblyReference.cache
